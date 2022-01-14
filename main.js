@@ -1,5 +1,8 @@
 import "./style.css";
 import { randomBetween } from "drbracewell-random-tools";
+import setFavicon from "@drbracewell/favicon-emoji";
+
+setFavicon("🏳️‍🌈");
 
 // https://stackoverflow.com/a/44134328
 function hslToHex(h, s, l) {

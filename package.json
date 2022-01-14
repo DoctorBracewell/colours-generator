@@ -12,6 +12,7 @@
     "vite": "^2.7.2"
   },
   "dependencies": {
+    "@drbracewell/favicon-emoji": "^1.0.1",
     "drbracewell-random-tools": "^1.2.2"
   }
 }
