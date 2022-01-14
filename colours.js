@@ -34,8 +34,7 @@ function hslToHex(h, s, l) {
 }
 
 
-function generateColours() {
-
+document.querySelector("#generate").addEventListener("click", () => {
   const h = Math.round(Math.random() * (360 - 0 + 1) + 0);
   const s = Math.round(Math.random() * (100 - 1 + 1) + 1);
   const l = Math.round(Math.random() * (80 - 20 + 1) + 20);
@@ -60,4 +59,6 @@ function generateColours() {
   let hexD = hslToHex(h, s, l - 10);
   document.querySelector(".tenDark").style.backgroundColor = hexD;
   document.querySelector("#darkColour").innerHTML = hexD;
-}
+})
+
+
