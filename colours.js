@@ -1,4 +1,4 @@
-function generateColours() {
+document.querySelector("#generate").addEventListener("click", () => {
   function hslToHex(h, s, l) {
     h /= 360;
     s /= 100;
@@ -51,4 +51,6 @@ function generateColours() {
   let hexD = hslToHex(h, s, l - 10);
   document.querySelector(".tenDark").style.backgroundColor = hexD;
   document.querySelector("#darkColour").innerHTML = hexD;
-}
+})
+
+
