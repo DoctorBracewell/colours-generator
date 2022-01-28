@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Easily spin up some good-looking colour palettes for your design project.
+> Easily spin up some good-looking colour palettes for your design project!
 
 ### 🏠 [Homepage](https://brace.dev/colours-generator)
 
