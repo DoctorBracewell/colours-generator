@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to colours-generator 👋</h1>
+<h1 align="center">Colour Palette Generator</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
