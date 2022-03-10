@@ -1,9 +1,11 @@
-<h1 align="center">Colour Palette Generator</h1>
-<p>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+<div align="center">
+  <h1 align="center">Colour Palette Generator</h1>
+  <p>
+    <img alt="Github license" src="https://img.shields.io/github/license/DoctorBracewell/colours-generator?style=for-the-badge">
+    <img alt="Github release" src="https://img.shields.io/github/v/release/DoctorBracewell/colours-generator?style=for-the-badge" />
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/DoctorBracewell/colours-generator?style=for-the-badge">
+  </p>
+</div>
 
 > Easily spin up some good-looking colour palettes for your design project!
 
@@ -16,9 +18,8 @@
 * Website: https://brace.dev
 * Github: [@DoctorBracewell](https://github.com/DoctorBracewell)
 
-## Show your support
+---
 
-Give a ⭐️ if this project helped you!
+Feel free to ⭐️ the repo if you thought this project was cool!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+~ Brace
